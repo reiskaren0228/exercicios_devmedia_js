@@ -13,9 +13,9 @@ Este repositório contém alguns exercícios de JavaScript solicitados pela Devm
 
 1. Clone este repositório em sua máquina local:
 
-   ```bash
+```bash
    git clone https://github.com/seu-usuario/exercicios_devmedia_js.git
-    ```
+```
 
 2. Navegue até o diretório do projeto:
 
@@ -41,9 +41,9 @@ Sinta-se à vontade para contribuir adicionando mais exercícios, otimizando sol
 
 4.Envie as alterações para o seu fork:
 
-   ```bash
+```bash
    git commit -m "Adiciona nova funcionalidade"
-  ```
+```
 5. Abra um pull request aqui no repositório principal.
 
 ## Licença
